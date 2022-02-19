@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Natty2ice
-- 👀 I’m interested in learning python programming for data science
+- 👀 I’m interested in learning python programming for data science and machine learning
 - 🌱 I’m currently learning DAX
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me +2348055315399
